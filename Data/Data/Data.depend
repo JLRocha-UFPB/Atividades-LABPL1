@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1563693010 source:/home/joao/Documents/Atividades-LABLP1/Data/Data/main.cpp
+	"Data.h"
+
+1563692927 source:/home/joao/Documents/Atividades-LABLP1/Data/Data/src/Data.cpp
+	"Data.h"
+
+1563580797 /home/joao/Documents/Atividades-LABLP1/Data/Data/include/Data.h
+	<iostream>
+

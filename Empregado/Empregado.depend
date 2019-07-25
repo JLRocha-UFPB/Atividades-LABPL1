@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1563799040 source:/home/joao/Documents/Atividades-LABLP1/Empregado/main.cpp
+	<iostream>
+	"Empregado.h"
+
+1563816389 source:/home/joao/Documents/Atividades-LABLP1/Empregado/src/Empregado.cpp
+	"Empregado.h"
+
+1563798959 /home/joao/Documents/Atividades-LABLP1/Empregado/include/Empregado.h
+	<iostream>
+

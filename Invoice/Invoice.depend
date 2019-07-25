@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1563746501 source:/home/joao/Documents/Atividades-LABLP1/Invoice/main.cpp
+	<iostream>
+	"Invoice.h"
+
+1563743703 source:/home/joao/Documents/Atividades-LABLP1/Invoice/src/Invoice.cpp
+	"Invoice.h"
+
+1563743486 /home/joao/Documents/Atividades-LABLP1/Invoice/include/Invoice.h
+	<iostream>
+

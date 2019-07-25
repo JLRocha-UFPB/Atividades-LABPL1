@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1564020948 source:/home/joao/Documents/Atividades-LABLP1/Despesa/main.cpp
+	<iostream>
+	"Despesa.h"
+	"ControleGasto.h"
+
+1564019665 source:/home/joao/Documents/Atividades-LABLP1/Despesa/src/Despesa.cpp
+	"Despesa.h"
+
+1564019692 /home/joao/Documents/Atividades-LABLP1/Despesa/include/Despesa.h
+	<iostream>
+	<string>
+
+1564019665 source:/home/joao/Documents/Atividades-LABLP1/Despesa/src/ControleGasto.cpp
+	"ControleGasto.h"
+
+1564019692 /home/joao/Documents/Atividades-LABLP1/Despesa/include/ControleGasto.h
+	"Despesa.h"
+
+1564020948 source:/home/joao/Music/Atividades-LABLP1/Despesa/main.cpp
+	<iostream>
+	"Despesa.h"
+	"ControleGasto.h"
+
+1564019692 /home/joao/Music/Atividades-LABLP1/Despesa/include/Despesa.h
+	<iostream>
+	<string>
+
+1564019692 /home/joao/Music/Atividades-LABLP1/Despesa/include/ControleGasto.h
+	"Despesa.h"
+
+1564019665 source:/home/joao/Music/Atividades-LABLP1/Despesa/src/ControleGasto.cpp
+	"ControleGasto.h"
+
+1564019665 source:/home/joao/Music/Atividades-LABLP1/Despesa/src/Despesa.cpp
+	"Despesa.h"
+
